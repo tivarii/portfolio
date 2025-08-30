@@ -1,37 +1,74 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Adarsh Tiwari – Web Developer Portfolio
 
-## Getting Started
+**Phone:** +971 54 269 2988  
+**Email:** adarshtiwari3576@gmail.com  
+**LinkedIn:** [adarsh-tivarii](https://www.linkedin.com/in/adarsh-tivarii)  
+**GitHub:** [tivarii](https://github.com/tivarii)
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Experience
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Biz Klinics LLC  
+**Frontend Developer Intern** (Remote)  
+_February 2025 – May 2025_  
+[https://app.humanoid.marketing/](https://app.humanoid.marketing/)
+- Built responsive UIs with Next.js, Tailwind CSS, and Shadcn/ui, improving load performance by 20% using Context API for global state management.
+- Developed dynamic, on-demand components and integrated multiple RESTful endpoints from a Django backend, ensuring efficient data flow and cross-device adaptability.
+- Automated social media post generation using AI, accelerating campaign rollouts and improving coordination across marketing and content teams.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### W3DEV  
+**JavaScript Developer Intern** (Remote)  
+_July 2024 – October 2024_
+- Led the development of a real-world project with Next.js, TypeScript, and Zustand, efficiently processing 10,000+ user reviews.
+- Enhanced the user-rating system by 37% by incorporating OpenAI-powered sentiment analysis for user comments.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### INSIDERONE  
+**Web Developer Intern** (Remote)  
+_February 2024 – May 2024_
+- Engineered web applications using React, Node.js, TypeScript, and Next.js, enhancing functionality for 5,000+ monthly active users.
+- Implemented responsive designs with Tailwind CSS, ensuring seamless experiences across 10+ platforms.
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## Projects
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Annadaan | Full-Stack Web Application
+- Built a scalable platform using React (frontend) and Node.js/Express (backend), enabling 500+ users to share and request surplus food.
+- Designed an intuitive interface with Tailwind CSS and shadcn/ui, increasing engagement by 30%.
+- **GitHub:** [tivarii/annadaataa](https://github.com/tivarii/annadaataa)  
+    **Demo:** [annadaataaa.vercel.app](https://annadaataaa.vercel.app/)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### YouTube Transcriptor | AI-Powered Study Notes Generator
+_Tech: Next.js, Express.js, LangChain, Gemini AI_
+- Developed a full-stack AI platform that transforms YouTube videos into structured study notes, reducing manual note-taking time by up to 90%.
+- Modular Express.js backend and responsive Next.js 14 frontend with rich UI (Shadcn/ui), achieving <1.5s average response time and 99.9% uptime.
+- **GitHub:** [tivarii/EventManager](https://github.com/tivarii/EventManager)  
+    **Demo:** [youtube-transcriptor-yina.vercel.app](https://youtube-transcriptor-yina.vercel.app/)
 
-## Deploy on Vercel
+### E-Mudra-Bajar | Real-Time Stock Trading App
+- Created a high-performance trading app using Node.js and Next.js, supporting 1,000+ concurrent users and processing 1,000+ transactions/sec with Redis Pub-Sub and WebSocket-based real-time architecture.
+- Integrated TimescaleDB for time-series analytics of 1M+ monthly transactions, implemented Vitest for 95% unit test coverage, and applied the Singleton Pattern for consistent state.
+- **GitHub:** [tivarii/E-Mudra-Bajar](https://github.com/tivarii/E-Mudra-Bajar)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-# portfolio
+## Skills
+
+**Frontend:** React, Next.js, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS, shadcn/ui  
+**Backend:** Node.js, Express.js, REST API, PostgreSQL, MongoDB, Prisma ORM, Mongoose, Redis, Django, FastAPI, Vector DB  
+**Dev Tools & Practices:** Docker, Git, GitHub, Postman, VS Code, Vitest, Jest, CI/CD, API Integration, Unit Testing  
+**Other:** AWS (Basics), WebSockets, WebRTC, OAuth, Zod, OpenAPI, Singleton Pattern  
+**CS Fundamentals:** Data Structures & Algorithms, OOP, DBMS, Operating Systems, Distributed Systems  
+**Languages:** C++, JavaScript, TypeScript, Python, Java, SQL, NoSQL  
+**AI Integration:** Google Gemini APIs, LangChain, FAISS, Hugging Face, LLM, Chatbot, OpenAI, Langraph, RAG
+
+---
+
+## Education
+
+**University School of Information, Communication And Technology, GGSIPU, Delhi**  
+_B.Tech in Computer Science & Engineering_  
+_August 2022 – July 2025_
+
+---
